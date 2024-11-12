@@ -156,10 +156,6 @@ while player:
 
 <hr>
 
-<h3>Output :</h3>
-
-![image](https://github.com/user-attachments/assets/cdafd40e-53e9-4bb0-a460-e75dd8ca852e)
-
 <hr>
 
 <h3>Result :</h3>
